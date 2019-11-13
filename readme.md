@@ -1,6 +1,6 @@
-# Payvision calculator
+# Calculator
 
-In this exercise you are given the legacy code of Payvision Calculator web app. Maintainance and new features development is your responsability.
+In this exercise you are given the legacy code of a Calculator web app. Maintainance and new features development is your responsability.
 
 ## Your tasks
 
