@@ -18,3 +18,11 @@
 
 - Multiply
 - Divison
+
+`package.json` version has been increased to 1.3.0, this is because we always increase on this order:
+
+- Left number: Release version
+- Middle number: Feature version
+- Right number: Fixes version
+
+As we have made some fixes first we increase right number first (1.2.3) but later we added new feature so right number resets to zero and middle number increases (1.3.0).
