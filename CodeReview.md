@@ -13,3 +13,8 @@
 - Number buttons '3' and '0' were reversed: `<button id="btn" class="num" data-num="0">3</button>` should be `<button id="btn" class="num" data-num="0">0</button>` and so on.
 - Perform operation was reversed: `resultNum = oldNum - theNum;` should be `resultNum = oldNum + theNum;` and so on.
 - Avoid non-numbered values (zero by default): `oldNum = parseFloat(oldNum) || 0` and `theNum = parseFloat(theNum) || 0`
+
+## New features
+
+- Multiply
+- Divison
