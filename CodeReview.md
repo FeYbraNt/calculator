@@ -26,3 +26,16 @@
 - Right number: Fixes version
 
 As we have made some fixes first we increase right number first (1.2.3) but later we added new feature so right number resets to zero and middle number increases (1.3.0).
+
+## Test automation
+
+- Unit tests with javascript libraries like **Jasmine**.
+- Tests focusing on functionality esentially: do all operations and try to play with them
+
+## UI/UX design
+
+- Add HTML responsive viewport `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+- Styles improvements to make easier to distinguish all parts of the app: 
+  - Add box-sizing CSS rule to add default box sizes
+  - Add div boxes 
+  - Add borders
